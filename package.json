@@ -1,0 +1,27 @@
+{
+  "name": "students-information",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twoLoop-40/students-information.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twoLoop-40/students-information/issues"
+  },
+  "homepage": "https://github.com/twoLoop-40/students-information#readme",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.46",
+    "@types/node": "^17.0.30",
+    "@types/shelljs": "^0.8.11",
+    "shelljs": "^0.8.5",
+    "typescript": "^4.6.4"
+  }
+}

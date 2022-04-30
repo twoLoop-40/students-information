@@ -1,0 +1,10 @@
+{
+	"scriptId":"1A7AqF6jpD0eWYAzWrJHhAs2g6Yta3Uh8c6e646bMRfnl5ZF_9e96g2wd",
+	"rootDir":"dist/",
+	"filePushOrder": [
+		"dist/ui.js",
+		"dist/main.js",
+		"dist/student.js",
+		"dist/student.js"
+	]
+}
